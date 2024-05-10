@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mnN4dltxexUlih/fs4YhbMTjr/zdt1joCJrpqK22cl0=",
+  "Source": "PatientAPI_OData",
+  "BasePath": "_content/PatientAPI_OData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
